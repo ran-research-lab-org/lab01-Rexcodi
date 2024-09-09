@@ -1,5 +1,6 @@
 
-// (Your name and github username)
+// Adrian P. Rodriguez
+// 801228869
 // A program to practice modifications and compilation
 
 #include <iostream>
